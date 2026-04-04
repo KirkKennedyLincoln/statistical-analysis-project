@@ -10,6 +10,5 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name=agent-ida
 jupyter notebook
 ```
-Select the **agent-ida** kernel, then run all cells. The dataset 
-downloads automatically if not present.
+Select the **agent-ida** kernel, then run all cells. The dataset should be present within the repo.
 
