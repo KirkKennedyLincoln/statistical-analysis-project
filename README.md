@@ -10,6 +10,6 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name=agent-ida
 jupyter notebook
 ```
-Select the **agent-eda** kernel, then run all cells. The dataset 
+Select the **agent-ida** kernel, then run all cells. The dataset 
 downloads automatically if not present.
 
